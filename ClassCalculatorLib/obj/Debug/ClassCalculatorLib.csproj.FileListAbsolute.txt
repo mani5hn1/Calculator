@@ -1,0 +1,11 @@
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\bin\Debug\ClassCalculatorLib.exe.config
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\bin\Debug\ClassCalculatorLib.exe
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\bin\Debug\ClassCalculatorLib.pdb
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\bin\Debug\Calculator new.exe
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\bin\Debug\Calculator new.pdb
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\bin\Debug\Calculator new.exe.config
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\obj\Debug\ClassCalculatorLib.csprojAssemblyReference.cache
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\obj\Debug\ClassCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\obj\Debug\ClassCalculatorLib.csproj.CopyComplete
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\obj\Debug\ClassCalculatorLib.exe
+C:\Users\manish.ravji\source\repos\Calculator new\ClassCalculatorLib\obj\Debug\ClassCalculatorLib.pdb

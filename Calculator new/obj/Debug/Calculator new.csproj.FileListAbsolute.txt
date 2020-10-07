@@ -1,0 +1,20 @@
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\bin\Debug\Calculator new.exe.config
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\bin\Debug\Calculator new.exe
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\bin\Debug\Calculator new.pdb
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\obj\Debug\Calculator new.csprojAssemblyReference.cache
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\obj\Debug\Calculator_new.Form1.resources
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\obj\Debug\Calculator_new.Properties.Resources.resources
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\obj\Debug\Calculator new.csproj.GenerateResource.cache
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\obj\Debug\Calculator new.csproj.CoreCompileInputs.cache
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\obj\Debug\Calculator new.exe
+C:\Users\manish.ravji\source\repos\Calculator new\Calculator new\obj\Debug\Calculator new.pdb
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\bin\Debug\Calculator new.exe.config
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\bin\Debug\Calculator new.exe
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\bin\Debug\Calculator new.pdb
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\obj\Debug\Calculator new.csprojAssemblyReference.cache
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\obj\Debug\Calculator_new.Form1.resources
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\obj\Debug\Calculator_new.Properties.Resources.resources
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\obj\Debug\Calculator new.csproj.GenerateResource.cache
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\obj\Debug\Calculator new.csproj.CoreCompileInputs.cache
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\obj\Debug\Calculator new.exe
+C:\Users\Manish\Documents\Manish Apprenticeship\repos\repos\Calculator new\Calculator new\obj\Debug\Calculator new.pdb
